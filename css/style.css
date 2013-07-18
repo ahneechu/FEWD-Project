@@ -1,0 +1,44 @@
+body{
+	width: 960px;
+	padding: 10px;
+}
+
+#logo{
+	margin: 0 auto 20px;
+	padding: 10px;
+}
+
+#header{
+	border: 1px solid black;
+	margin: 0 auto 20px;
+	text-align: center;
+}
+
+.navbar{
+	height: 20px;
+	width: 150px;
+	margin: 10px;
+	text-align: center;
+	float: left;
+}
+
+#images{
+	height: 500px;
+	width: 800px;
+	margin: 0 auto;
+	text-align: center;
+	background-color: gray;
+}
+
+#footer{
+	text-align: center;
+}
+
+.bottomboxes{
+	height:200px;
+	width: 250px;
+	margin: 10px;
+	padding: 10px;
+	border: 1px solid black;
+	float: left;
+}
